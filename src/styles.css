@@ -1,2 +1,4 @@
 @import '~bootstrap';
-
+body{
+   font-family: 'EB Garamond', serif;
+}

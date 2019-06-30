@@ -1,0 +1,12 @@
+img {
+  border-radius: 30px;
+  padding: 10%;
+  max-width: 80%;
+  max-height: 80%;
+}
+
+.social {
+  position: absolute;
+  bottom: 0px;
+  left: 50%;
+}
