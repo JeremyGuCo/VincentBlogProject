@@ -1,0 +1,21 @@
+img {
+  border-radius: 100px;
+  padding: 10%;
+}
+
+.social {
+  position: absolute;
+  bottom: 0px;
+}
+
+.cit{
+  font-style: italic;
+  font-size: 1.5rem;
+  color: #6d6868
+}
+
+.bg{
+  background-image: url('https://cdn.pixabay.com/photo/2014/09/15/22/23/letter-447577_960_720.jpg') 
+}
+
+
