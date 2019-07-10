@@ -1,12 +1,21 @@
 img {
-  border-radius: 30px;
+  border-radius: 100px;
   padding: 10%;
-  max-width: 80%;
-  max-height: 80%;
 }
 
 .social {
   position: absolute;
   bottom: 0px;
-  left: 50%;
 }
+
+.cit{
+  font-style: italic;
+  font-size: 1.5rem;
+  color: #6d6868
+}
+
+.bg{
+  background-image: url('https://cdn.pixabay.com/photo/2014/09/15/22/23/letter-447577_960_720.jpg') 
+}
+
+

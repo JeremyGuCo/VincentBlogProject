@@ -1,4 +1,5 @@
 @import '~bootstrap';
-body{
-   font-family: 'EB Garamond', serif;
+
+* {
+  font-family: 'Libre Baskerville', serif;
 }
